@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+input {
+	border : 2px solid black;
+	padding : 2px;
+	margin : 10px;
+}
